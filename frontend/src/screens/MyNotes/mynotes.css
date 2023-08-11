@@ -1,0 +1,32 @@
+.card {
+    margin: 10px;
+}
+
+.cardHeader {
+    display: flex;
+    justify-content: space-between;
+    /* color: red; */
+}
+
+.cardHeaderTitle{
+    color: black;
+    text-decoration: none;
+    flex: 1;
+    cursor: pointer;
+    align-self: center;
+    font-size: 20px;
+}
+.accordion-header {
+   margin-bottom: 0 !important;
+}
+.accordion-button{
+    border-width: 0;
+    background: none;
+    display: flex;
+    width: 80vw !important;
+    justify-content: space-between;
+}
+.accordion-button:focus{
+    outline: none !important;
+    outline-offset: none !important;
+}

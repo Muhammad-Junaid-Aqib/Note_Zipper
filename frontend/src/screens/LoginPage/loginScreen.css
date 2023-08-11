@@ -1,0 +1,28 @@
+.loginContainer {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.email {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.password {
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.inputPasswordField {
+    margin-bottom: 15px;
+}
+
+.registerHere {
+    font-weight: bold;
+}
+
+.loginLink{
+    font-weight: bold;
+}
